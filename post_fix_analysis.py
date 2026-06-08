@@ -12,7 +12,7 @@ This script answers three real questions:
 2. Is auto-demote actually removing losers? (check live_allowlist evolution)
 3. What's the "trending market" loss pattern? (find markets where most fires lost)
 
-Run from /home/polybot/polymarket-bot/.
+Run from ./.
 """
 import os
 import sys

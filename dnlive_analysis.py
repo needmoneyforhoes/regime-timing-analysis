@@ -14,7 +14,7 @@ Statistical methodology:
   - Autocorrelation check on outcomes
 
 Run:
-  cd /home/polybot/polymarket-bot
+  cd .
   python3 dnlive_analysis.py
 
 Outputs:
