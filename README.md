@@ -40,3 +40,8 @@ Data is not committed (`.gitignore` excludes `*.jsonl`/`*.json`/`*.pkl`/`*.csv`)
 - `market_history.jsonl`: per-market tick/event records. All analyzers.
 - `bn_training_{btc,xrp}.jsonl`: paired DM entry/exit events. `analyze_bn_thresholds.py`.
 - `market_recap_history.jsonl`, `live_allowlist.json`: recap and allowlist evolution. `dnlive_analysis.py`, `post_fix_analysis.py`.
+
+## Feedback
+
+Suggestions, improvements, or something not working? Please
+[open an issue](https://github.com/needmoneyforhoes/regime-timing-analysis/issues/new). Pull requests are welcome too.
